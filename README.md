@@ -25,8 +25,6 @@ Obrigado</H4></CENTER>
   
 <div>
      <Center> <h2>Contacte-me</h2> </center>
-    <a href="https://www.linkedin.com/in/joao-victtor-melo-9674851b4"><img align="center" width="45" height="35" alt="Joao-Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/joao-victtor-melo-9674851b4"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:joaovicttorsilveiramelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
-<a href="https://github.com/JoaoVicttorsMelo/">![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</a>
-
