@@ -25,7 +25,7 @@ Obrigado</H4></CENTER>
   
   <div>
      <Center> <h2>Contacte-me</h2> </center>
-    <a href="www.linkedin.com/in/joao-victtor-melo-9674851b4"><img align="center" width="45" height="35" alt="Joao-Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/joao-victtor-melo-9674851b4"><img align="center" width="45" height="35" alt="Joao-Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
   </div>
 
