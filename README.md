@@ -17,9 +17,9 @@ Obrigado</H4></CENTER>
    <Center> <h2>Meus conhecimentos</h2> </center>
 <img align="center" width="60" height="50" alt="Joao-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" width="60" height="50" alt="Joao-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" width="60" height="50" alt="Joao-SQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" width="60" height="50" alt="Joao-React"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" width="60" height="50" alt="Joao-GIT"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" width="60" height="50" alt="Joao-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" width="60" height="50" alt="Joao-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" width="60" height="50" alt="Joao-GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
   
