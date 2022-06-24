@@ -23,9 +23,10 @@ Obrigado</H4></CENTER>
 </div>
   
   
-  <div>
+<div>
      <Center> <h2>Contacte-me</h2> </center>
     <a href="https://www.linkedin.com/in/joao-victtor-melo-9674851b4"><img align="center" width="45" height="35" alt="Joao-Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-
-  </div>
+</div>
+ 
+<a href="https://github.com/JoaoVicttorsMelo/">![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</a>
 
