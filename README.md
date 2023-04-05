@@ -20,6 +20,7 @@ Obrigado</H4></CENTER>
 <img align="center" width="60" height="50" alt="Joao-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" width="60" height="50" alt="Joao-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" width="60" height="50" alt="Joao-GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" width="60" height="50" alt="Joao-GIT"  src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js" />
 </div>
   
   
