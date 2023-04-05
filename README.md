@@ -20,7 +20,7 @@ Obrigado</H4></CENTER>
 <img align="center" width="60" height="50" alt="Joao-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" width="60" height="50" alt="Joao-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" width="60" height="50" alt="Joao-GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<iconify-icon icon="vscode-icons:file-type-advpl"></iconify-icon>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ox0Xqvw" data-context="false" ><a href="//imgur.com/a/ox0Xqvw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
   
   
