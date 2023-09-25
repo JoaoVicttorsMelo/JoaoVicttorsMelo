@@ -7,8 +7,8 @@ Obrigado por me acompanhar, sinta-se à vontade para discutir tópicos relaciona
  
 <div>
 <a href="https://github.com/joaovicttorsmelo">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaovicttorsmelo&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicttorsmelo&layout=donut-vertical&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovicttorsmelo&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicttorsmelo&langs_count=4&theme=tokyonight"/>
 </div>
   
   
