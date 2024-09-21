@@ -1,9 +1,10 @@
 <H1 align=center>Olá, tudo bem?</H1>
 
-<H4 align=center>Olá, sou João Victtor, tenho 20 anos e trabalho com Banco de Dados na Brooksfield. <BR>
-Este perfil é onde compartilho meus projetos pessoais para demonstrar minha expertise e progresso diário.<BR>
-Sou apaixonado por programção e estou sempre aprimorando minhas habilidades.<br>
-Obrigado por me acompanhar, sinta-se à vontade para discutir tópicos relacionados a programação. Juntos, podemos crescer!</H4>
+<H4 align=center>Sou João Victtor, um entusiasta da tecnologia de 21 anos, com experiência em Banco de Dados na Brooksfield. Neste perfil, compartilho meus projetos pessoais, que não apenas evidenciam minha experiência, mas também meu compromisso com o aprendizado contínuo e a inovação.
+
+Minha paixão por programação me motiva a aprimorar constantemente minhas habilidades e a explorar novas tecnologias. Acredito que a colaboração é fundamental para o crescimento, e estou sempre aberto a discussões e intercâmbios de ideias sobre tópicos relacionados à tecnologia.
+
+Agradeço por visitar meu perfil. Sinta-se à vontade para conectar-se e trocar insights — juntos, podemos impulsionar o futuro da programação!</H4>
  
 <div align=center>
 <a href="https://github.com/joaovicttorsmelo">
